@@ -1,0 +1,25 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="ZqQe8ELYoqFutIvfEpvm">
+    <mxGraphModel dx="694" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SkTJLBaJUdPSrVE_cAyZ-5" edge="1" parent="1" source="SkTJLBaJUdPSrVE_cAyZ-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="SkTJLBaJUdPSrVE_cAyZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkTJLBaJUdPSrVE_cAyZ-6" edge="1" parent="1" source="SkTJLBaJUdPSrVE_cAyZ-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="SkTJLBaJUdPSrVE_cAyZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkTJLBaJUdPSrVE_cAyZ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S&lt;sub&gt;0&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="171" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SkTJLBaJUdPSrVE_cAyZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S&lt;sub&gt;u&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="354" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SkTJLBaJUdPSrVE_cAyZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S&lt;span style=&quot;font-size: 10px;&quot;&gt;d&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="354" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
