@@ -1,0 +1,37 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="myvXj_TzjmEHNP2jVApz">
+    <mxGraphModel dx="731" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Rg98uxpL3qqBVC5WgOwQ-9" edge="1" parent="1" source="Rg98uxpL3qqBVC5WgOwQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Rg98uxpL3qqBVC5WgOwQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg98uxpL3qqBVC5WgOwQ-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Loan 1&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Loan 2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Loan n&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;本金：USD 100 million&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="180" x="50" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg98uxpL3qqBVC5WgOwQ-6" edge="1" parent="1" source="Rg98uxpL3qqBVC5WgOwQ-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Rg98uxpL3qqBVC5WgOwQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg98uxpL3qqBVC5WgOwQ-7" edge="1" parent="1" source="Rg98uxpL3qqBVC5WgOwQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Rg98uxpL3qqBVC5WgOwQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg98uxpL3qqBVC5WgOwQ-8" edge="1" parent="1" source="Rg98uxpL3qqBVC5WgOwQ-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Rg98uxpL3qqBVC5WgOwQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg98uxpL3qqBVC5WgOwQ-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;特殊目的实体（SPV）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="180" width="180" x="324" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg98uxpL3qqBVC5WgOwQ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Senior tranche 优先级&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;本金:USD 70 million&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;回报率:5%&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="620" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg98uxpL3qqBVC5WgOwQ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Mezzanine tranche夹层级&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;本金:USD 25 million&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;回报率:8%&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="620" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Rg98uxpL3qqBVC5WgOwQ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;Equity tranche 权益级&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;本金:USD 5 million&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 13px;&quot;&gt;回报率:25%&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="620" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
